@@ -1,0 +1,26 @@
+{
+  "Découverte": {
+    "objectif": "Comprendre les besoins du client et ses défis actuels",
+    "contexte": "Première réunion avec un client potentiel pour explorer une collaboration possible avec Talan."
+  },
+  "Présentation": {
+    "objectif": "Présenter l’offre de Talan et ses expertises",
+    "contexte": "Le client a exprimé de l’intérêt pour nos services, et nous devons lui faire une présentation adaptée."
+  },
+  "Négociation": {
+    "objectif": "Trouver un accord gagnant-gagnant sur une proposition commerciale",
+    "contexte": "Le client a reçu notre offre et souhaite discuter des conditions."
+  },
+  "Crise": {
+    "objectif": "Gérer une situation critique avec diplomatie et efficacité",
+    "contexte": "Le client rencontre un blocage ou est insatisfait d’une prestation. Nous devons restaurer la confiance."
+  },
+  "Suivi": {
+    "objectif": "Faire le point sur l’avancement d’un projet en cours",
+    "contexte": "Réunion planifiée régulièrement avec le client pour assurer le bon déroulement de la mission."
+  },
+  "Comité Décision": {
+    "objectif": "Aider à la prise de décision stratégique",
+    "contexte": "Réunion avec les décideurs pour valider un choix de solution ou une orientation de projet."
+  }
+}
