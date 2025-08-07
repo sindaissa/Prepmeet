@@ -1,0 +1,502 @@
+[
+  {
+    "topics":"communication and motivation",
+    "sentiment":"positif",
+    "clarity":0.9
+  },
+  {
+    "topics":"gestion du stress",
+    "sentiment":"neutre",
+    "clarity":0.7
+  },
+  {
+    "topics":"technologie et innovation",
+    "sentiment":"enthousiaste",
+    "clarity":0.85
+  },
+  {
+    "topics":"management et leadership",
+    "sentiment":"constructif",
+    "clarity":0.8
+  },
+  {
+    "topics":"résolution de conflit",
+    "sentiment":"critique",
+    "clarity":0.6
+  },
+  {
+    "topics":"organisation et efficacité",
+    "sentiment":"positif",
+    "clarity":0.88
+  },
+  {
+    "topics":"communication interne",
+    "sentiment":"mitigé",
+    "clarity":0.65
+  },
+  {
+    "topics":"motivation de l'équipe",
+    "sentiment":"positif",
+    "clarity":0.92
+  },
+  {
+    "topics":"stratégie et planification",
+    "sentiment":"neutre",
+    "clarity":0.75
+  },
+  {
+    "topics":"client et relation client",
+    "sentiment":"positif",
+    "clarity":0.9
+  },
+  {
+    "topics":"communication, management, équipe",
+    "sentiment":"positif",
+    "clarity":0.9
+  },
+  {
+    "topics":"gestion du stress, organisation",
+    "sentiment":"neutre",
+    "clarity":0.75
+  },
+  {
+    "topics":"motivation, leadership",
+    "sentiment":"enthousiaste",
+    "clarity":0.85
+  },
+  {
+    "topics":"technologie, innovation",
+    "sentiment":"mitigé",
+    "clarity":0.6
+  },
+  {
+    "topics":"résolution de conflit, management",
+    "sentiment":"constructif",
+    "clarity":0.8
+  },
+  {
+    "topics":"client, stratégie",
+    "sentiment":"critique",
+    "clarity":0.65
+  },
+  {
+    "topics":"communication, organisation, stress",
+    "sentiment":"négatif",
+    "clarity":0.55
+  },
+  {
+    "topics":"leadership, motivation",
+    "sentiment":"positif",
+    "clarity":0.95
+  },
+  {
+    "topics":"technologie, innovation, management",
+    "sentiment":"neutre",
+    "clarity":0.7
+  },
+  {
+    "topics":"équipe, motivation, stress",
+    "sentiment":"négatif",
+    "clarity":0.5
+  },
+  {
+    "topics":"communication, leadership, motivation",
+    "sentiment":"positif",
+    "clarity":0.9
+  },
+  {
+    "topics":"gestion du stress, organisation",
+    "sentiment":"neutre",
+    "clarity":0.7
+  },
+  {
+    "topics":"technologie, innovation",
+    "sentiment":"enthousiaste",
+    "clarity":0.8
+  },
+  {
+    "topics":"résolution de conflit, management",
+    "sentiment":"constructif",
+    "clarity":0.85
+  },
+  {
+    "topics":"client, stratégie",
+    "sentiment":"critique",
+    "clarity":0.65
+  },
+  {
+    "topics":"équipe, motivation",
+    "sentiment":"positif",
+    "clarity":0.92
+  },
+  {
+    "topics":"organisation, stress",
+    "sentiment":"mitigé",
+    "clarity":0.6
+  },
+  {
+    "topics":"leadership, gestion du changement",
+    "sentiment":"négatif",
+    "clarity":0.55
+  },
+  {
+    "topics":"technologie, innovation, IA",
+    "sentiment":"enthousiaste",
+    "clarity":0.88
+  },
+  {
+    "topics":"management, communication",
+    "sentiment":"neutre",
+    "clarity":0.75
+  },
+  {
+    "topics":"communication, management, leadership",
+    "sentiment":"positif",
+    "clarity":0.9
+  },
+  {
+    "topics":"technologie, innovation, stratégie",
+    "sentiment":"enthousiaste",
+    "clarity":0.8
+  },
+  {
+    "topics":"client, organisation, stress",
+    "sentiment":"neutre",
+    "clarity":0.75
+  },
+  {
+    "topics":"équipe, motivation, résolution de conflit",
+    "sentiment":"constructif",
+    "clarity":0.85
+  },
+  {
+    "topics":"management, stress, leadership",
+    "sentiment":"mitigé",
+    "clarity":0.6
+  },
+  {
+    "topics":"stratégie, innovation, technologie",
+    "sentiment":"critique",
+    "clarity":0.65
+  },
+  {
+    "topics":"client, communication, motivation",
+    "sentiment":"positif",
+    "clarity":0.88
+  },
+  {
+    "topics":"organisation, stress, management",
+    "sentiment":"neutre",
+    "clarity":0.7
+  },
+  {
+    "topics":"leadership, équipe, résolution de conflit",
+    "sentiment":"enthousiaste",
+    "clarity":0.92
+  },
+  {
+    "topics":"technologie, management, stratégie",
+    "sentiment":"constructif",
+    "clarity":0.83
+  },
+  {
+    "topics":"communication, gestion d'équipe",
+    "sentiment":"positif",
+    "clarity":0.9
+  },
+  {
+    "topics":"management, résolution de conflit",
+    "sentiment":"constructif",
+    "clarity":0.8
+  },
+  {
+    "topics":"technologie, innovation",
+    "sentiment":"enthousiaste",
+    "clarity":0.85
+  },
+  {
+    "topics":"relation client, stratégie",
+    "sentiment":"neutre",
+    "clarity":0.75
+  },
+  {
+    "topics":"motivation, stress",
+    "sentiment":"mitigé",
+    "clarity":0.6
+  },
+  {
+    "topics":"leadership, organisation",
+    "sentiment":"critique",
+    "clarity":0.7
+  },
+  {
+    "topics":"communication, motivation",
+    "sentiment":"positif",
+    "clarity":0.9
+  },
+  {
+    "topics":"management, stress",
+    "sentiment":"négatif",
+    "clarity":0.55
+  },
+  {
+    "topics":"équipe, innovation",
+    "sentiment":"positif",
+    "clarity":0.8
+  },
+  {
+    "topics":"stratégie, gestion de crise",
+    "sentiment":"constructif",
+    "clarity":0.78
+  },
+  {
+    "topics":"communication, gestion de projet",
+    "sentiment":"positif",
+    "clarity":0.9
+  },
+  {
+    "topics":"leadership, motivation",
+    "sentiment":"enthousiaste",
+    "clarity":0.85
+  },
+  {
+    "topics":"technologie, innovation",
+    "sentiment":"mitigé",
+    "clarity":0.6
+  },
+  {
+    "topics":"organisation, stress",
+    "sentiment":"négatif",
+    "clarity":0.4
+  },
+  {
+    "topics":"client, stratégie",
+    "sentiment":"neutre",
+    "clarity":0.75
+  },
+  {
+    "topics":"équipe, résolution de conflit",
+    "sentiment":"constructif",
+    "clarity":0.88
+  },
+  {
+    "topics":"management, stress",
+    "sentiment":"critique",
+    "clarity":0.55
+  },
+  {
+    "topics":"récupération, motivation",
+    "sentiment":"positif",
+    "clarity":0.92
+  },
+  {
+    "topics":"communication, leadership",
+    "sentiment":"positif",
+    "clarity":0.9
+  },
+  {
+    "topics":"innovation, stratégie",
+    "sentiment":"mitigé",
+    "clarity":0.65
+  },
+  {
+    "topics":"communication, gestion du stress",
+    "sentiment":"positif",
+    "clarity":0.9
+  },
+  {
+    "topics":"motivation, leadership",
+    "sentiment":"enthousiaste",
+    "clarity":0.8
+  },
+  {
+    "topics":"organisation, innovation",
+    "sentiment":"constructif",
+    "clarity":0.85
+  },
+  {
+    "topics":"technologie, stratégie",
+    "sentiment":"neutre",
+    "clarity":0.75
+  },
+  {
+    "topics":"rsolution de conflit, client",
+    "sentiment":"critique",
+    "clarity":0.65
+  },
+  {
+    "topics":"équipe, management",
+    "sentiment":"mitigé",
+    "clarity":0.7
+  },
+  {
+    "topics":"motivation, stress",
+    "sentiment":"négatif",
+    "clarity":0.6
+  },
+  {
+    "topics":"leadership, innovation",
+    "sentiment":"positif",
+    "clarity":0.88
+  },
+  {
+    "topics":"stratégie, organisation",
+    "sentiment":"neutre",
+    "clarity":0.78
+  },
+  {
+    "topics":"communication, client",
+    "sentiment":"constructif",
+    "clarity":0.92
+  },
+  {
+    "topics":"communication and motivation",
+    "sentiment":"positif",
+    "clarity":0.85
+  },
+  {
+    "topics":"management and organisation",
+    "sentiment":"neutre",
+    "clarity":0.78
+  },
+  {
+    "topics":"technologie and innovation",
+    "sentiment":"enthousiaste",
+    "clarity":0.92
+  },
+  {
+    "topics":"leadership and motivation",
+    "sentiment":"constructif",
+    "clarity":0.88
+  },
+  {
+    "topics":"résolution de conflit",
+    "sentiment":"critique",
+    "clarity":0.65
+  },
+  {
+    "topics":"client and team collaboration",
+    "sentiment":"positif",
+    "clarity":0.83
+  },
+  {
+    "topics":"stress and organisation",
+    "sentiment":"mitigé",
+    "clarity":0.7
+  },
+  {
+    "topics":"stratégie et gestion du changement",
+    "sentiment":"neutre",
+    "clarity":0.8
+  },
+  {
+    "topics":"IA and digital transformation",
+    "sentiment":"positif",
+    "clarity":0.9
+  },
+  {
+    "topics":"management and communication",
+    "sentiment":"négatif",
+    "clarity":0.6
+  },
+  {
+    "topics":"communication, gestion d'équipe",
+    "sentiment":"positif",
+    "clarity":0.85
+  },
+  {
+    "topics":"technologie, innovation",
+    "sentiment":"enthousiaste",
+    "clarity":0.9
+  },
+  {
+    "topics":"stratégie, organisation",
+    "sentiment":"neutre",
+    "clarity":0.75
+  },
+  {
+    "topics":"leadership, motivation",
+    "sentiment":"positif",
+    "clarity":0.8
+  },
+  {
+    "topics":"résolution de conflit, stress",
+    "sentiment":"critique",
+    "clarity":0.6
+  },
+  {
+    "topics":"management, client",
+    "sentiment":"mitigé",
+    "clarity":0.7
+  },
+  {
+    "topics":"IA, technologie, innovation",
+    "sentiment":"constructif",
+    "clarity":0.9
+  },
+  {
+    "topics":"communication, organisation",
+    "sentiment":"négatif",
+    "clarity":0.65
+  },
+  {
+    "topics":"équipe, motivation",
+    "sentiment":"positif",
+    "clarity":0.88
+  },
+  {
+    "topics":"leadership, stratégie",
+    "sentiment":"neutre",
+    "clarity":0.78
+  },
+  {
+    "topics":"communication et gestion de conflit",
+    "sentiment":"positif",
+    "clarity":0.8
+  },
+  {
+    "topics":"management et motivation de l'équipe",
+    "sentiment":"constructif",
+    "clarity":0.9
+  },
+  {
+    "topics":"technologie et innovation",
+    "sentiment":"enthousiaste",
+    "clarity":0.85
+  },
+  {
+    "topics":"stratégie commerciale",
+    "sentiment":"neutre",
+    "clarity":0.7
+  },
+  {
+    "topics":"relation client et satisfaction",
+    "sentiment":"positif",
+    "clarity":0.9
+  },
+  {
+    "topics":"organisation interne et process",
+    "sentiment":"critique",
+    "clarity":0.6
+  },
+  {
+    "topics":"leadership et développement personnel",
+    "sentiment":"positif",
+    "clarity":0.8
+  },
+  {
+    "topics":"stress et gestion du temps",
+    "sentiment":"mitigé",
+    "clarity":0.65
+  },
+  {
+    "topics":"motivation et reconnaissance",
+    "sentiment":"positif",
+    "clarity":0.85
+  },
+  {
+    "topics":"résolution de conflit",
+    "sentiment":"constructif",
+    "clarity":0.75
+  }
+]
