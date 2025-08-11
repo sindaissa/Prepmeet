@@ -1,0 +1,26 @@
+{   "Nom de l'entreprise": "millesima",
+    "Secteur (NAF/APE)": "4634Z – commerce de gros (commerce interentreprises) de boissons",
+    "Produits / services": "Vente en ligne de grands vins et champagnes fins (grands crus classés, vins primeurs), achat direct auprès des propriétés, environ 2,5 millions de bouteilles stockées. Fiches produits détaillées (dégustation, millésimes, notes presse), formats rares via la 'Bibliothèque impériale'. Services : conseils œnologiques (7 conseillers), coffrets cadeaux d’affaires sur mesure, événements de dégustation 'Panorama'.",
+    "Clients ou partenaires majeurs": [],
+    "Actualités/projets en cours": [
+        "Collaboration avec Talan (2022-2023) : intégration IA pour prédiction des ventes et tarification dynamique, portée : 234 000 références produits, 15 000 clients dans 18 pays. Résultat : amélioration gestion des stocks, hausse CA (~70 M€).",
+        "Lancement en 2023 d’une gamme de spiritueux haut de gamme (~175 références), avec objectif de diversification.",
+        "Ouverture d’une nouvelle boutique à New York (Upper East Side) en février 2024 (1257 2nd Avenue, 5200 sqft)."
+    ],
+    "CA estimé": "≈55 M€ (exercice 2023)",
+    "Effectif": "68 (2023)",
+    "Localisation (pays / régions)": [
+        "Siège : Bordeaux (87 quai de Paludate)",
+        "USA : Boutique à New York (1257 2nd Avenue, Upper East Side)",
+        "France : Saint-Tropez, Millésima La Plage au Cap Ferret"
+    ],
+    "Profil LinkedIn responsable client": [
+        "https://www.linkedin.com/in/hortense-bernard-3026519",
+        "https://www.linkedin.com/in/philippinedunoyer"
+    ],
+    "Historique relation avec Talan (si CRM)": "Depuis 2022, collaboration avec Talan sur des projets IA (prédiction des ventes, tarification dynamique), portant sur 234 000 références produits et 15 000 clients dans 18 pays. Objectif : optimisation des stocks et augmentation du CA. Projet d’une durée d’environ 18 mois, résultats positifs et perspectives de poursuite.",
+    "Concurrent de Talan sur ce projet": [
+        "SQLI (refonte e-commerce avec architecture headless, ReactJS + Spring Boot, performance site web)",
+        "Sensefuel (moteur de recherche intelligent basé sur IA pour conversion e-commerce)"
+    ]
+}

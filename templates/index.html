@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Let’s get things done, together!</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+
+    <style>
+        body {
+            margin: 0;
+            font-family: 'Inter', sans-serif;
+            background-color: #f4f6f9;
+            color: #2c3e50;
+        }
+
+        header {
+            background-color: #002b5c;
+            color: white;
+            padding: 10px 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+        }
+
+        .header-left {
+            position: absolute;
+            left: 20px;
+            top: 50%;
+            transform: translateY(-50%);
+        }
+
+        .header-left img {
+            height: 60px; /* ✅ Agrandi ici */
+        }
+
+        .header-title {
+            text-align: center;
+            font-size: 24px;
+            font-weight: 600;
+            margin: 10px 0;
+        }
+
+        main {
+            max-width: 850px;
+            margin: 40px auto;
+            background-color: #ffffff;
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        }
+
+        h2 {
+            margin-bottom: 25px;
+            font-size: 22px;
+            color: #002b5c;
+            text-align: center;
+        }
+
+        label {
+            display: block;
+            font-weight: 600;
+            margin-top: 20px;
+            color: #34495e;
+        }
+
+        input[type="text"],
+        textarea,
+        select {
+            width: 100%;
+            padding: 12px;
+            margin-top: 8px;
+            border: 1px solid #ccc;
+            border-radius: 6px;
+            font-size: 16px;
+            background-color: #fafafa;
+        }
+
+        textarea {
+            resize: vertical;
+        }
+
+        button {
+            margin-top: 30px;
+            background-color: #002b5c;
+            color: white;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 6px;
+            font-size: 16px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        button:hover {
+            background-color: #004a99;
+        }
+
+        .response-box {
+            margin-top: 40px;
+            background-color: #eef4fc;
+            padding: 20px;
+            border-left: 6px solid #002b5c;
+            border-radius: 8px;
+            font-size: 16px;
+            line-height: 1.6;
+            white-space: pre-wrap;
+        }
+
+        footer {
+            text-align: center;
+            padding: 20px;
+            color: #777;
+            font-size: 14px;
+            margin-top: 60px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <div class="header-left">
+        <img src="static/logo_talan.png" alt="Logo Talan">
+    </div>
+    <div class="header-title">Let’s get things done, together!</div>
+</header>
+
+<main>
+    <form method="POST">
+        <label for="client">Nom du client :</label>
+        <input type="text" id="client" name="client" placeholder="Ex : Bouygues Telecom" required>
+
+        <label for="meeting_type">Type de réunion :</label>
+        <select id="meeting_type" name="meeting_type" required>
+            <option value="">-- Sélectionnez un type --</option>
+            <option value="Agent Découverte (Open-Ended Questions)">Découverte</option>
+            <option value="Agent Présentation (Clarté/Impact)">Présentation</option>
+            <option value="Agent Négociation (Objections/Prix)">Négociation</option>
+            <option value="Agent Crise (Gestion du stress)">Crise</option>
+            <option value="Agent Suivi (Preuves/Engagement)">Suivi</option>
+            <option value="Agent Comité Décision (GO/NOGO)">Comité Décision</option>
+        </select>
+
+        <label for="project_topic">Sujet du projet :</label>
+        <input type="text" id="project_topic" name="project_topic" placeholder="Ex : Transformation digitale RH" required>
+
+        <label for="question">Question posée par le Digital Twin :</label>
+        <textarea id="question" name="question" rows="5" placeholder="Ex : Quels sont les enjeux pour ce projet ?" required></textarea>
+
+        <button type="submit">Générer la réponse</button>
+    </form>
+
+    {% if response %}
+        <div class="response-box">
+            <strong>Réponse générée :</strong><br>
+            {{ response }}
+        </div>
+    {% endif %}
+</main>
+
+<footer>
+    &copy; 2025 TALAN – Assistant de Réponse Client. Projet développé par Sinda Aissa.
+</footer>
+
+</body>
+</html>
+
+
+
+
